@@ -326,7 +326,7 @@ public class Application {
         final JTextField courseField = new JTextField(20);
         // make a separate line.
         final JButton getAverageButton = new JButton("Get Average Grade");
-        final JButton getTopButton = new JButton("Get Top Grade");
+        final JButton getTopButton = new JButton("Get Top Grade ");
 
         final JButton leaveTeamButton = new JButton("Leave Team");
         final JLabel resultLabel = new JLabel();
